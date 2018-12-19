@@ -1,0 +1,145 @@
+D:\Luck\Luck\bin\Debug\Luck.exe.config
+D:\Luck\Luck\bin\Debug\Luck.exe
+D:\Luck\Luck\bin\Debug\Luck.pdb
+D:\Luck\Luck\obj\Debug\Luck.Form1.resources
+D:\Luck\Luck\obj\Debug\Luck.Form2.resources
+D:\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+D:\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.Cache
+D:\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+D:\Luck\Luck\obj\Debug\Luck.exe
+D:\Luck\Luck\obj\Debug\Luck.pdb
+D:\Tugas\PV\Luck\Luck\bin\Debug\Luck.exe.config
+D:\Tugas\PV\Luck\Luck\bin\Debug\Luck.exe
+D:\Tugas\PV\Luck\Luck\bin\Debug\Luck.pdb
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.Form1.resources
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.Form2.resources
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.Cache
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.exe
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.pdb
+D:\Tugas\PV\Luck\Luck\bin\Debug\ClassLibrary1.dll
+D:\Tugas\PV\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.csprojResolveAssemblyReference.cache
+D:\Tugas\PV\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojAssemblyReference.cache
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.cache
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CopyComplete
+C:\Users\1one\Downloads\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojResolveAssemblyReference.cache
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.Cache
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\Luck\obj\Debug\Luck.Masak.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.dll
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.pdb
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Masak.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb
+C:\Users\user\Desktop\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form5.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojAssemblyReference.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form5.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Masak.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CopyComplete
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.tanam.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form5.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Maptoko.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Masak.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.tanam.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form7.resources
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form8.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.dll
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.dll
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary1.pdb
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\bin\Debug\ClassLibrary2.pdb
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csprojAssemblyReference.cache
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form2.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form3.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form4.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form5.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form7.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Form8.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Maptoko.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Masak.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.Properties.Resources.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.tanam.resources
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.GenerateResource.cache
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CoreCompileInputs.cache
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.csproj.CopyComplete
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\1one\Downloads\MappingKasaran\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\Luck\obj\Debug\Luck.pdb

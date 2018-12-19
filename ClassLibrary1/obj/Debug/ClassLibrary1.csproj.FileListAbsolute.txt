@@ -1,0 +1,27 @@
+D:\Tugas\PV\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Tugas\PV\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Tugas\PV\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Tugas\PV\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Tugas\PV\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\1one\Downloads\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

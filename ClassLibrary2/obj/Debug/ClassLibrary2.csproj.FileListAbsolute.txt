@@ -1,0 +1,16 @@
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Leonardi\Desktop\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\Proyek kuliah\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\user\Desktop\MappingKasaran\MappingKasaran1\MappingKasaran\Luck\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
